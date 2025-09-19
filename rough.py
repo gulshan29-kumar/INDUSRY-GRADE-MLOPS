@@ -1,0 +1,6 @@
+lst=[1,2,3]
+my_str="mlops playlist"
+my_int=255
+print(type(lst))
+print(type(my_str))
+print((type(my_int)))
